@@ -1,2 +1,9 @@
+[build]
+  command = "./install-deps.sh && npm run build"
+  publish = "out"
+
+[context.production.environment]
+  NODE_VERSION = "18"  # Điều chỉnh nếu bạn cần phiên bản Node.js khác
+
 [functions]
-included_files = ["content/**"]
+  included_files = ["content/**"]
