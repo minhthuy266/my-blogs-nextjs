@@ -2,7 +2,7 @@
 title: "My work from home workstation"
 date: 2022-04-04T10:00:00Z
 image: /images/post/post-2.png
-categories: ["programming"]
+categories: ["haircare", "fragrance-body"]
 featured: false
 draft: false
 ---

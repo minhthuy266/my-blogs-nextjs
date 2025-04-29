@@ -5,28 +5,57 @@
       "url": "/"
     },
     {
+      "name": "Blog",
+      "url": "/blog",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "All",
+          "url": "/categories"   
+        },
+        {
+          "name": "Skincare",
+          "url": "/categories/skincare"   
+        },
+        {
+          "name": "Makeup",
+          "url": "/categories/makeup"
+        },
+        {
+          "name": "Haircare",
+          "url": "/categories/haircare"
+        },
+        {
+          "name": "Fragrance & Body",
+          "url": "/categories/fragrance-body"
+        },
+        {
+          "name": "Nails & Beauty Tools",
+          "url": "/categories/nails-beauty-tools"
+        },
+        {
+          "name": "Wellness & Self-love",
+          "url": "/categories/wellness-self-love"
+        },
+        {
+          "name": "Beauty Tips & Hacks",
+          "url": "/categories/beauty-tips-hacks"
+        },
+        {
+          "name": "Gift Guides",
+          "url": "/categories/gift-guides"
+        }
+      ]
+    },
+    {
       "name": "About",
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Categories",
-          "url": "/categories"
-        }
-      ]
     }
+   
   ],
   "footer": [
     {
