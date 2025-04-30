@@ -10,7 +10,6 @@ import { slugify } from "@lib/utils/textConverter";
 import Image from "next/image";
 
 const Categories = ({ categories }) => {
-  console.log("CCCC", categories);
   return (
     <Base title={"categories"}>
       <section className="section pt-0">

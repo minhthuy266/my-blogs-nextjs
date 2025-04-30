@@ -5,13 +5,13 @@
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_white": "/images/logo-light.png",
-    "logo_width": "150",
-    "logo_height": "39",
+    "logo_width": "70",
+    "logo_height": "70",
     "logo_text": "Geeky"
   },
   "settings": {
     "theme_switcher": true,
-    "default_theme": "system",
+    "default_theme": "light",
     "pagination": 6,
     "InnerPaginationOptions": {
       "enableTop": false,
@@ -22,8 +22,8 @@
   },
   "params": {
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
-    "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
+    "footer_content": "A curated space for beauty tips, style inspiration, and everyday lifestyle hacks. Stay inspired with our latest picks and ideas.",
+    "copyright": "Crafted by a small team with a big love for beauty, style, and creative living."
   },
   "metadata": {
     "meta_author": "Statichunt",
@@ -33,7 +33,7 @@
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+      "content": "Where beauty meets simplicity. Discover the latest in beauty, self-care, and lifestyle tips curated with love by the GG Haven team. Join us on a journey to feel good, look great, and live inspired."
     },
     "featured_posts": {
       "enable": true,

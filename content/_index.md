@@ -1,8 +1,8 @@
 ---
 banner:
   title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title_small: "to Glamorous Girls Haven"
+  content: A curated space for beauty, lifestyle, and creative inspiration. Join us as we share ideas, tips, and stories worth keeping.
   image_enable: true
   image: /images/blog-img-9.jpg
   button:

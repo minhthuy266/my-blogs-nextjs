@@ -51,7 +51,7 @@ const Home = ({
               {markdownify(banner.content, "p", "mt-4")}
               {banner.button.enable && (
                   <Link
-                    className="btn btn-primary mt-6"
+                    className="btn btn-primary mt-6 mb-12"
                     href={banner.button.link}
                     rel={banner.button.rel}
                   >
